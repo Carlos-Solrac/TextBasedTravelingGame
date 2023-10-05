@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8
+# Install script for directory: C:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

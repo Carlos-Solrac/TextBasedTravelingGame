@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Assigment8
 
@@ -49,55 +49,55 @@ cmake_ninja_workdir = C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigm
 
 build cmake_object_order_depends_target_Assigment8: phony || CMakeFiles/Assigment8.dir
 
-build CMakeFiles/Assigment8.dir/BadGuy.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/BadGuy.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/BadGuy.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/BadGuy.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\BadGuy.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
   TARGET_PDB = Assigment8.pdb
 
-build CMakeFiles/Assigment8.dir/PlayerList.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/PlayerList.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/PlayerList.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/PlayerList.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\PlayerList.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
   TARGET_PDB = Assigment8.pdb
 
-build CMakeFiles/Assigment8.dir/Rooms.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/Rooms.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/Rooms.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/Rooms.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\Rooms.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
   TARGET_PDB = Assigment8.pdb
 
-build CMakeFiles/Assigment8.dir/SuperUser.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/SuperUser.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/SuperUser.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/SuperUser.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\SuperUser.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
   TARGET_PDB = Assigment8.pdb
 
-build CMakeFiles/Assigment8.dir/TextBasedGamePart8.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/TextBasedGamePart8.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/TextBasedGamePart8.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/TextBasedGamePart8.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\TextBasedGamePart8.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
   TARGET_PDB = Assigment8.pdb
 
-build CMakeFiles/Assigment8.dir/Users.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/Users.cpp || cmake_object_order_depends_target_Assigment8
+build CMakeFiles/Assigment8.dir/Users.cpp.obj: CXX_COMPILER__Assigment8_Debug C$:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/Users.cpp || cmake_object_order_depends_target_Assigment8
   DEP_FILE = CMakeFiles\Assigment8.dir\Users.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/.
+  INCLUDES = -IC:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/.
   OBJECT_DIR = CMakeFiles\Assigment8.dir
   OBJECT_FILE_DIR = CMakeFiles\Assigment8.dir
   TARGET_COMPILE_PDB = CMakeFiles\Assigment8.dir\
@@ -127,7 +127,7 @@ build Assigment8.exe: CXX_EXECUTABLE_LINKER__Assigment8_Debug CMakeFiles/Assigme
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\16788\Documents\FSU\CourseWork\Assigment8\Assigment8\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\16788\Documents\FSU\CourseWork\TextBasedTravelingGame\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -138,7 +138,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\16788\Documents\FSU\CourseWork\Assigment8\Assigment8\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\16788\Documents\FSU\CourseWork\Assigment8\Assigment8 -BC:\Users\16788\Documents\FSU\CourseWork\Assigment8\Assigment8\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\16788\Documents\FSU\CourseWork\TextBasedTravelingGame\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\16788\Documents\FSU\CourseWork\TextBasedTravelingGame -BC:\Users\16788\Documents\FSU\CourseWork\TextBasedTravelingGame\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -156,7 +156,7 @@ build Assigment8: phony Assigment8.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/16788/Documents/FSU/CourseWork/Assigment8/Assigment8/cmake-build-debug
+# Folder: C:/Users/16788/Documents/FSU/CourseWork/TextBasedTravelingGame/cmake-build-debug
 
 build all: phony Assigment8.exe
 
