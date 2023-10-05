@@ -1,0 +1,199 @@
+ccuellar@linprog7.cs.fsu.edu:~/cop3330> ls
+BadGuy.cpp  BadGuy.o        Makefile                   PlayerList.cpp  PlayerList.o  Rooms.h  SuperUser.cpp  SuperUser.o         TextBasedGamePart8.cpp  Users.cpp  Users.o
+BadGuy.h    CMakeLists.txt  Map of starting game.docx  PlayerList.h    Rooms.cpp     Rooms.o  SuperUser.h    TextBasedGamePart8  TextBasedGamePart8.o    Users.h
+ccuellar@linprog7.cs.fsu.edu:~/cop3330> TextBasedGamePart8
+Would you liked to the load the previous saved user data? (Y/N): n
+What is your name?
+evoni
+Welcome to my game!
+********************************************
+How many BadGuys do you want to play with? Enter 0 through 10
+1
+-----------------------------------------------
+evoni you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):s
+evoni, you are now in Forest
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Lake
+You go west from the forest and arrive at a  large lake full of wildlife.
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):e
+carlos, you are now in Forest
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Forest
+You walk into a forest of giant birch trees
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):n
+evoni, you are now in Cave
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Forest
+You walk into a forest of giant birch trees
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):n
+carlos, you are now in Cave
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):n
+evoni, you are now in Mountain Top
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):z
+carlos you are not on the list.
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):z
+evoni you are on the user list.
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):n
+carlos, you are now in Mountain Top
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):z
+evoni you are on the user list.
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):z
+carlos you are on the user list.
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):a
+evoni you attack bad guy Jim. Jim now has 5 life points left.
+Jim attacks evoni for 1 damage.
+evoni now has 9 life points left.
+********************************************
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):a
+a Is not a valid option if you are not in the same room as any bad guys.
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):s
+evoni, you are now in Cave
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Mountain Top
+As you move north from the cave you exit and arrive at the top of a mountain.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):s
+carlos, you are now in Cave
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):s
+evoni, you are now in Forest
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Cave
+The cave is dark and cold, you won't want to stay here long.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):s
+carlos, you are now in Forest
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Forest
+You walk into a forest of giant birch trees
+#Bad Guy Jim is here.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):a
+evoni you attack bad guy Jim. Jim is dead.
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Forest
+You walk into a forest of giant birch trees
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):e
+carlos, you are now in Clearing
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Forest
+You walk into a forest of giant birch trees
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):w
+evoni, you are now in Lake
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Clearing
+You walk into a big clearing int he middle of the forest
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):n
+carlos, you can not move north from Clearing
+-----------------------------------------------
+-----------------------------------------------
+evoni you are currently in Lake
+You go west from the forest and arrive at a  large lake full of wildlife.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):z
+evoni you are on the user list.
+-----------------------------------------------
+-----SUPER USER-----
+-----------------------------------------------
+carlos you are currently in Clearing
+You walk into a big clearing int he middle of the forest
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):q
+carlos Thank you for playing...
+-----------------------------------------------
+Would you like to create a save file? (Y/N)?:
+n
+Thank you for playing. No data was saved.
+
+-----------------------------------------------
+evoni you are currently in Lake
+You go west from the forest and arrive at a  large lake full of wildlife.
+What would you like to do?
+Options are : N,E,W,S,A,Z,T(super user),and I(super user):q
+evoni Thank you for playing...
+-----------------------------------------------
+Would you like to create a save file? (Y/N)?:
+y
+Player data saved successfully.
